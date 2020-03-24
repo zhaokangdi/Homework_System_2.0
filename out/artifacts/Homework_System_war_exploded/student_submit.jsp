@@ -13,9 +13,9 @@
 <head>
     <title>查看作业</title>
     <link rel="icon" type="image/ico">
-    <link href="./css/bootstrap.min.css" rel="stylesheet">
-    <link href="./css/materialdesignicons.min.css" rel="stylesheet">
-    <link href="./css/style.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="css/style.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -23,7 +23,7 @@
     <div class="lyear-layout-container">
         <aside class="lyear-layout-sidebar">
             <div id="logo" class="sidebar-header">
-                <a style="height: 64px"><img src="./images/logo-sidebar.png"/></a>
+                <a style="height: 64px"><img src="images/logo-sidebar.png"/></a>
             </div>
             <div class="lyear-layout-sidebar-scroll">
                 <nav class="sidebar-main">
@@ -104,9 +104,9 @@
     </div>
 </div>
 
-<script type="text/javascript" src="./js/jquery.min.js"></script>
-<script type="text/javascript" src="./js/bootstrap.min.js"></script>
-<script type="text/javascript" src="./js/perfect-scrollbar.min.js"></script>
-<script type="text/javascript" src="./js/main.min.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/perfect-scrollbar.min.js"></script>
+<script type="text/javascript" src="js/main.min.js"></script>
 </body>
 </html>
